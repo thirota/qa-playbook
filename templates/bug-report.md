@@ -9,10 +9,18 @@
 ## Actual result
 <!-- What actually happened? Add screenshots, video, or logs if available -->
 
+## Reproducibility
+<!-- How often does the issue occur? -->
+- [ ] Always (100%)
+- [ ] Often (~70–99%)
+- [ ] Sometimes (~30–69%)
+- [ ] Rarely (<30%)
+- [ ] Unable to reproduce
+- [ ] Not tested / unclear
+
 ## Steps to reproduce
 1. <!-- Preconditions (account type, permissions, environment, data, etc.) -->
 2. <!-- Detailed steps to reproduce the issue -->
-3. <!-- Reproducibility rate: always / sometimes / rare -->
 
 ## Environment
 <!-- OS, browser, device, app version, Cloud/DC, locale, network conditions, etc. -->
