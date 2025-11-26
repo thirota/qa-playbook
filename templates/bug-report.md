@@ -23,7 +23,7 @@
 2. <!-- Detailed steps to reproduce the issue -->
 
 ## Environment
-<!-- OS, browser, device, app version, Cloud/DC, locale, network conditions, etc. -->
+<!-- OS, browser, device, app version, Cloud/On-premise, locale, network conditions, etc. -->
 
 ## Workaround
 <!-- Temporary workaround if available, otherwise 'N/A' -->
