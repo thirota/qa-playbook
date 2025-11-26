@@ -19,8 +19,9 @@
 - [ ] Not tested / unclear
 
 ## Steps to reproduce
-1. <!-- Preconditions (account type, permissions, environment, data, etc.) -->
-2. <!-- Detailed steps to reproduce the issue -->
+1. <!-- Step 1 (including initial login or required initial state if needed) -->
+2. <!-- Step 2 -->
+3. <!-- Step 3 -->
 
 ## Environment
 <!-- OS, browser, device, app version, Cloud/On-premise, locale, network conditions, etc. -->
