@@ -6,6 +6,8 @@ This repository provides a universal bug report template that can be used across
 ## Contents
 - `templates/bug-report.md`  
   └ Universal bug report template (English only)
+- `templates/user-story.md`  
+  └ Lightweight user story template for better requirement definition (English only)
 
 ## License
 MIT
