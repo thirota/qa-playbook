@@ -1,6 +1,6 @@
 # Bug report
 
-## Summary
+## Overview
 <!-- One-line description of the issue in user-facing terms -->
 
 ## Expected result
@@ -8,6 +8,14 @@
 
 ## Actual result
 <!-- What actually happened? Add screenshots, video, or logs if available -->
+
+## Steps to reproduce
+1. <!-- Step 1 (including initial login or required initial state if needed) -->
+2. <!-- Step 2 -->
+3. <!-- Step 3 -->
+
+## Environment
+<!-- OS, browser, device, app version, Cloud/On-premise, locale, network conditions, etc. -->
 
 ## Reproducibility
 <!-- How often does the issue occur? -->
@@ -18,16 +26,8 @@
 - [ ] Unable to reproduce
 - [ ] Not tested / unclear
 
-## Steps to reproduce
-1. <!-- Step 1 (including initial login or required initial state if needed) -->
-2. <!-- Step 2 -->
-3. <!-- Step 3 -->
-
-## Environment
-<!-- OS, browser, device, app version, Cloud/On-premise, locale, network conditions, etc. -->
-
 ## Workaround
 <!-- Temporary workaround if available, otherwise 'N/A' -->
 
-## Insight
+## Additional notes
 <!-- Any hypothesis, suspected cause, what you tried, related issues, hints for developers -->
