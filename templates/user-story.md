@@ -6,11 +6,11 @@
 ## Context
 <!-- Background behind this user story -->
 
-## Acceptance Criteria
+## Acceptance criteria
 <!-- What must be met for completion -->
 - [ ] 
 
-## Testing Notes
+## Testing notes
 <!-- Edge cases, non-functional requirements, or specific test scenarios -->
 
 ## Additional notes
